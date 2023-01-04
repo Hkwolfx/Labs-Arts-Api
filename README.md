@@ -1,11 +1,5 @@
 # Labs-Arts-Api
 
-Npm run build = process to open SSL console as admin@seoadmin
-
-log in
-
-To apply any changes on live server = npm run build + pm2 start npm -- start for frontend pm2 start npm -- start for backend
-
 To Clone and run localy :
 
 -> clone the repo in any folder of yours, open two terminals. With the first go to frontend folder and type npm run dev With the second go to backend folder and type npm start
